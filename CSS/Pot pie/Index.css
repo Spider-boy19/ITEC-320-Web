@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+}
+h1,h2{
+    background-color: #74452e;
+    color: wheat;
+    padding: 20px;
+}
+p{
+    background-color: #74452e;
+    color: wheat;
+}
+a{
+    background-color: #a65c36;
+    color: orange;
+    margin: 169px;
+}

@@ -1,0 +1,22 @@
+p, h1, h2 {
+    color: green;
+}
+h2 {
+    background-color: yellow;
+}
+h2 {
+    font-weight: normal;
+    font-size: 8pt;
+    color: blue;
+}
+
+h1 {
+    color: pink;
+}
+
+body {
+    background-image: url("https://arecipeforfun.com/wp-content/uploads/2025/03/Edits-Turkey-Pepperoni-Pizza-Recipe-14.jpg");
+}
+ol {
+    list-style-type: none;
+}
